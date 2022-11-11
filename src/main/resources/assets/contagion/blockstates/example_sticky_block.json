@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "contagion:block/example_sticky_block"
+    }
+  }
+}

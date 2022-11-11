@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * A utility class which allows compatible spectator shaders to be registered.
- * @version 0.0.1
+ * @since 0.0.1
  */
 public class SpectatorShaders {
     private static final HashMap<EntityType<?>, ArrayList<Identifier>> SHADERS = new HashMap<>();

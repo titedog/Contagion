@@ -4,6 +4,7 @@
   "package": "io.github.titedog.contagion.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "PistonHandlerMixin"
   ],
   "client": [
     "GameRendererMixin",
