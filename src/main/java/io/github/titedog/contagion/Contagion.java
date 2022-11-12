@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 public class Contagion implements ModInitializer {
 	public static final String MOD_ID = "contagion";
-	public static final String VERSION_TAG = "0.0.1";
+	public static final String VERSION_TAG = "1.0";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	public static Identifier id(String entry) {

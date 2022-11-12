@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  * A small holder class for custom sticky blocks.
- * @since 0.0.1
+ * @since 1.0
  */
 public class StickyBlockRegistry {
     public static final ArrayList<Block> STICKY_BLOCKS = new ArrayList<>();
